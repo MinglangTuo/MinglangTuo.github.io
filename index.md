@@ -1,13 +1,4 @@
 
-    <p><b>Contact:</b>
-        <br>Jiulong International
-        <br>Rantun E Rd, Zhongyuan District
-        <br>Zhengzhou, Henan
-        <br>China
-      </p>
-    <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </header>
-      <section>
   <h2><a id="computer-code" class="anchor" href="#computercode" aria-hidden="true"><span class="octicon octicon-link"></span></a>Computer Code</h2>
     <h3>Python</h3>
         <ul>
@@ -33,14 +24,4 @@
         <li><a href="https://github.com/liuzyon/COMP212Assignment2">FloodSet and OptFloodSet</a>: Implement FloodSet and OptFloodSet argeement algorithm in distributed system.</li>
       </ul>     
 
-    <hr>
-
-    <h2><a id="machine-learning" class="anchor" href="#machinelearning" aria-hidden="true"><span class="octicon octicon-link"></span></a>Machine Learning Resources</h2>
-        <ul>
-          <li><a href="https://github.com/liuzyon/ACSE-8-colab">Machine learning tutorials in Imperial College London</a>, running on Colaboratory.</li>
-        </ul>
-      </section>
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
-  </body>
-</html>
+    
